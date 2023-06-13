@@ -29,7 +29,7 @@ output:	It will generate a folder 'partialPCD' that contains RGB and depth image
 
 
 
-Step 1: 
+Step 2: 
 ======
 Run generate_partial_pcds() from the file "partial_pcd.py"  [python partial_pcd.py]
 
